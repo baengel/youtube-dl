@@ -1,2 +1,9 @@
-sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
-sudo chmod a+rx /usr/local/bin/youtube-dl
+sudo apt-get install libav-tools 
+sudo apt-get install rtmpdump 
+sudo apt-get install mplayer mpv 
+sudo apt-get install aria2 
+sudo apt-get install youtube-dl 
+sudo apt-get install python-pip3 
+sudo pip3 install --upgrade youtube-dl 
+
+
