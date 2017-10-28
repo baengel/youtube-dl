@@ -1,0 +1,7 @@
+pip install cherrypy
+
+oder
+
+git clone https://github.com/cherrypy/cherrypy
+cd cherrypy
+python setup.py install
