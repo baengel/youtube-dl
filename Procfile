@@ -1,1 +1,1 @@
-web: python webservice.py --log-file -
+web: python helloworld.py --log-file -
